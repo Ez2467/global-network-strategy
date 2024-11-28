@@ -59,12 +59,6 @@ See [`CONTRIBUTING.md`][org-contrib].
 | [The Membership Committee](/docs/membership_committee.md) |
 
 | What _else_ you will find here |
-|:--|
-| [The Plan. What do we mean by 'Transition'?](/docs/the-plan.md) 
-| ~~[The Advisory Group for the Transition](/docs/the-advisory-group.md)~~ | 
-| ~~[The Interim Membership Committee](/docs/the-interim-membership-council.md)~~ | 
-| ~~[The Timeline](/docs/the-timeline.md)~~ | 
-| [Frequently Asked Questions](/docs/FAQ.md) | 
 
 Do you have any question? [Join us](https://network.creativecommons.org) at Slack!
 
